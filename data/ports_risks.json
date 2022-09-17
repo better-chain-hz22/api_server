@@ -1,1 +1,375 @@
-[{"portName": "Tolkkinen", "riskType": "severe_weather", "start": "10.06.2022 00:00", "end": "11.06.2022 00:00", "info": {"portname": "Tolkkinen", "code": "FITOK", "prttype": "Sea", "locprecision": "accurate", "latitude": 60.33694, "longitude": 25.58725, "iso3": "FIN", "iso3_op": "FIN", "country": "Finland"}}, {"portName": "Ashdod", "riskType": "political_issue", "start": "11.06.2022 00:00", "end": "11.06.2022 06:00", "info": {"portname": "Ashdod", "code": "ILASH", "prttype": "Sea", "locprecision": "accurate", "latitude": 31.82475, "longitude": 34.6482, "iso3": "ISR", "iso3_op": "ISR", "country": "Israel"}}, {"portName": "Genova", "riskType": "jam", "start": "25.01.2021 00:00", "end": "25.01.2021 19:00", "info": {"portname": "Genova", "code": "ITGOA", "prttype": "Sea", "locprecision": "accurate", "latitude": 44.40205, "longitude": 8.92996, "iso3": "ITA", "iso3_op": "ITA", "country": "Italy"}}, {"portName": "Suez", "riskType": "traffic jam", "start": "26.06.2019 00:00", "end": "26.06.2019 00:00", "info": {"portname": "Suez", "code": "EGSUZ", "prttype": "Sea", "locprecision": "accurate", "latitude": 29.94283, "longitude": 32.56592, "iso3": null, "iso3_op": "EGY", "country": null}}, {"portName": "Felixstowe", "riskType": "strike", "start": "26.05.2019 00:00", "end": "26.05.2019 00:00", "info": {"portname": "Felixstowe", "code": "GBFXT", "prttype": "Sea", "locprecision": "accurate", "latitude": 51.94831, "longitude": 1.31487, "iso3": "GBR", "iso3_op": "GBR", "country": "U.K. of Great Britain and Northern Ireland"}}, {"portName": "Tema", "riskType": "delay", "start": "01.01.2019 00:00", "end": "03.01.2019 00:00", "severe": 2, "info": {"portname": "Tema", "code": "GHTEM", "prttype": "Sea", "locprecision": "accurate", "latitude": 5.63042, "longitude": 0.0057, "iso3": "GHA", "iso3_op": "MLI,NER", "country": "Ghana"}}, {"portName": "Qingdao", "riskType": "delay", "start": "01.01.2019 00:00", "end": "05.01.2019 00:00", "severe": 4, "info": {"portname": "Qingdao", "code": "CNTAO", "prttype": "Sea", "locprecision": "accurate", "latitude": 36.05714, "longitude": 120.32468, "iso3": "CHN", "iso3_op": "CHN", "country": "China"}}, {"portName": "Sines", "riskType": "delay", "start": "01.01.2019 00:00", "end": "03.01.2019 00:00", "severe": 2, "info": {"portname": "Sines", "code": "PTSIE", "prttype": "Sea", "locprecision": "accurate", "latitude": 37.95336, "longitude": -8.88662, "iso3": "PRT", "iso3_op": "PRT", "country": "Portugal"}}, {"portName": "Pusan", "riskType": "delay", "start": "01.01.2019 00:00", "end": "03.01.2019 00:00", "severe": 2, "info": {"portname": "Pusan", "code": "KRPUS", "prttype": "Sea", "locprecision": "accurate", "latitude": 35.1243, "longitude": 129.06014, "iso3": "KOR", "iso3_op": "KOR", "country": "Republic of Korea"}}, {"portName": "Callao", "riskType": "delay", "start": "01.01.2019 00:00", "end": "03.01.2019 00:00", "severe": 2, "info": {"portname": "Callao", "code": "PECLL", "prttype": "Sea", "locprecision": "accurate", "latitude": -12.04873, "longitude": -77.14381, "iso3": "PER", "iso3_op": "PER", "country": "Peru"}}, {"portName": "Antwerpen (Antwerp)", "riskType": "delay", "start": "01.01.2019 00:00", "end": "03.01.2019 00:00", "severe": 2, "info": {"portname": "Antwerpen (Antwerp)", "code": "BEANR", "prttype": "Sea", "locprecision": "accurate", "latitude": 51.2495, "longitude": 4.38621, "iso3": "BEL", "iso3_op": "BEL", "country": "Belgium"}}, {"portName": "Jawaharlal Nehru", "riskType": "delay", "start": "01.01.2019 00:00", "end": "02.01.2019 00:00", "severe": 1, "info": {"portname": "Jawaharlal Nehru", "code": "INNSA", "prttype": "Sea", "locprecision": "accurate", "latitude": 18.95374, "longitude": 72.95043, "iso3": null, "iso3_op": "IND", "country": null}}, {"portName": "Colombo", "riskType": "delay", "start": "01.01.2019 00:00", "end": "02.01.2019 00:00", "severe": 1, "info": {"portname": "Colombo", "code": "LKCMB", "prttype": "Sea", "locprecision": "accurate", "latitude": 6.94119, "longitude": 79.8428, "iso3": "LKA", "iso3_op": "LKA", "country": "Sri Lanka"}}, {"portName": "Dar Es Salaam", "riskType": "delay", "start": "01.01.2019 00:00", "end": "04.01.2019 00:00", "severe": 3, "info": {"portname": "Dar Es Salaam", "code": "TZDAR", "prttype": "Sea", "locprecision": "accurate", "latitude": -6.81982, "longitude": 39.28792, "iso3": "TZA", "iso3_op": "TZA,COD,SSD,UGA,MWI", "country": "United Republic of Tanzania"}}, {"portName": "Durban", "riskType": "delay", "start": "01.01.2019 00:00", "end": "04.01.2019 00:00", "severe": 3, "info": {"portname": "Durban", "code": "ZADUR", "prttype": "Sea", "locprecision": "accurate", "latitude": -29.88108, "longitude": 31.01967, "iso3": null, "iso3_op": "ZAF, MWI, ZWE", "country": null}}, {"portName": "Barcadera", "riskType": "wind_speed", "start": "01.01.2019 00:00", "end": "01.01.2019 00:00", "severe": 0.7, "info": {"portname": "Barcadera", "code": "AWBAR", "prttype": "Sea", "locprecision": "accurate", "latitude": 12.48094, "longitude": -69.99846, "iso3": "ABW", "iso3_op": "ABW", "country": "Aruba"}}, {"portName": "Hamaroy", "riskType": "wind_speed", "start": "01.01.2019 00:00", "end": "01.01.2019 00:00", "severe": 0.71, "info": {"portname": "Hamaroy", "code": "NOHMY", "prttype": "Sea", "locprecision": "approximate", "latitude": 68.08477, "longitude": 15.63392, "iso3": "NOR", "iso3_op": "NOR", "country": "Norway"}}, {"portName": "Studstrupvaerkets Havn", "riskType": "wind_speed", "start": "01.01.2019 00:00", "end": "01.01.2019 00:00", "severe": 0.79, "info": {"portname": "Studstrupvaerkets Havn", "code": "DKSSV", "prttype": "Sea", "locprecision": "accurate", "latitude": 56.24891, "longitude": 10.34783, "iso3": "DNK", "iso3_op": "DNK", "country": "Denmark"}}, {"portName": "Nowy Port", "riskType": "wind_speed", "start": "01.01.2019 00:00", "end": "01.01.2019 00:00", "severe": 0.62, "info": {"portname": "Nowy Port", "code": "PLNOW", "prttype": "Sea", "locprecision": "accurate", "latitude": 54.40853, "longitude": 18.65782, "iso3": "POL", "iso3_op": "POL", "country": "Poland"}}, {"portName": "Porvoo", "riskType": "wind_speed", "start": "01.01.2019 00:00", "end": "01.01.2019 00:00", "severe": 0.81, "info": {"portname": "Porvoo", "code": "FIPRV", "prttype": "Sea", "locprecision": "accurate", "latitude": 60.38291, "longitude": 25.67178, "iso3": "FIN", "iso3_op": "FIN", "country": "Finland"}}, {"portName": "Lindesnes", "riskType": "wind_speed", "start": "01.01.2019 00:00", "end": "01.01.2019 00:00", "severe": 1.0, "info": {"portname": "Lindesnes", "code": "NOLDS", "prttype": "Sea", "locprecision": "accurate", "latitude": 58.02451, "longitude": 7.10958, "iso3": "NOR", "iso3_op": "NOR", "country": "Norway"}}]
+[
+  {
+    "portName": "Tolkkinen",
+    "riskType": "severe_weather",
+    "start": "10.06.2022 00:00",
+    "end": "11.06.2022 00:00",
+    "info": {
+      "portname": "Tolkkinen",
+      "code": "FITOK",
+      "prttype": "Sea",
+      "locprecision": "accurate",
+      "latitude": 60.33694,
+      "longitude": 25.58725,
+      "iso3": "FIN",
+      "iso3_op": "FIN",
+      "country": "Finland"
+    }
+  },
+  {
+    "portName": "Ashdod",
+    "riskType": "political_issue",
+    "start": "11.06.2022 00:00",
+    "end": "11.06.2022 06:00",
+    "info": {
+      "portname": "Ashdod",
+      "code": "ILASH",
+      "prttype": "Sea",
+      "locprecision": "accurate",
+      "latitude": 31.82475,
+      "longitude": 34.6482,
+      "iso3": "ISR",
+      "iso3_op": "ISR",
+      "country": "Israel"
+    }
+  },
+  {
+    "portName": "Genova",
+    "riskType": "jam",
+    "start": "25.01.2021 00:00",
+    "end": "25.01.2021 19:00",
+    "info": {
+      "portname": "Genova",
+      "code": "ITGOA",
+      "prttype": "Sea",
+      "locprecision": "accurate",
+      "latitude": 44.40205,
+      "longitude": 8.92996,
+      "iso3": "ITA",
+      "iso3_op": "ITA",
+      "country": "Italy"
+    }
+  },
+  {
+    "portName": "Suez",
+    "riskType": "traffic jam",
+    "start": "26.06.2019 00:00",
+    "end": "26.06.2019 00:00",
+    "info": {
+      "portname": "Suez",
+      "code": "EGSUZ",
+      "prttype": "Sea",
+      "locprecision": "accurate",
+      "latitude": 29.94283,
+      "longitude": 32.56592,
+      "iso3": null,
+      "iso3_op": "EGY",
+      "country": null
+    }
+  },
+  {
+    "portName": "Felixstowe",
+    "riskType": "strike",
+    "start": "26.05.2019 00:00",
+    "end": "26.05.2019 00:00",
+    "info": {
+      "portname": "Felixstowe",
+      "code": "GBFXT",
+      "prttype": "Sea",
+      "locprecision": "accurate",
+      "latitude": 51.94831,
+      "longitude": 1.31487,
+      "iso3": "GBR",
+      "iso3_op": "GBR",
+      "country": "U.K. of Great Britain and Northern Ireland"
+    }
+  },
+  {
+    "portName": "Tema",
+    "riskType": "delay",
+    "start": "01.01.2019 00:00",
+    "end": "03.01.2019 00:00",
+    "severe": 2,
+    "info": {
+      "portname": "Tema",
+      "code": "GHTEM",
+      "prttype": "Sea",
+      "locprecision": "accurate",
+      "latitude": 5.63042,
+      "longitude": 0.0057,
+      "iso3": "GHA",
+      "iso3_op": "MLI,NER",
+      "country": "Ghana"
+    }
+  },
+  {
+    "portName": "Qingdao",
+    "riskType": "delay",
+    "start": "01.01.2019 00:00",
+    "end": "05.01.2019 00:00",
+    "severe": 4,
+    "info": {
+      "portname": "Qingdao",
+      "code": "CNTAO",
+      "prttype": "Sea",
+      "locprecision": "accurate",
+      "latitude": 36.05714,
+      "longitude": 120.32468,
+      "iso3": "CHN",
+      "iso3_op": "CHN",
+      "country": "China"
+    }
+  },
+  {
+    "portName": "Sines",
+    "riskType": "delay",
+    "start": "01.01.2019 00:00",
+    "end": "03.01.2019 00:00",
+    "severe": 2,
+    "info": {
+      "portname": "Sines",
+      "code": "PTSIE",
+      "prttype": "Sea",
+      "locprecision": "accurate",
+      "latitude": 37.95336,
+      "longitude": -8.88662,
+      "iso3": "PRT",
+      "iso3_op": "PRT",
+      "country": "Portugal"
+    }
+  },
+  {
+    "portName": "Pusan",
+    "riskType": "delay",
+    "start": "01.01.2019 00:00",
+    "end": "03.01.2019 00:00",
+    "severe": 2,
+    "info": {
+      "portname": "Pusan",
+      "code": "KRPUS",
+      "prttype": "Sea",
+      "locprecision": "accurate",
+      "latitude": 35.1243,
+      "longitude": 129.06014,
+      "iso3": "KOR",
+      "iso3_op": "KOR",
+      "country": "Republic of Korea"
+    }
+  },
+  {
+    "portName": "Callao",
+    "riskType": "delay",
+    "start": "01.01.2019 00:00",
+    "end": "03.01.2019 00:00",
+    "severe": 2,
+    "info": {
+      "portname": "Callao",
+      "code": "PECLL",
+      "prttype": "Sea",
+      "locprecision": "accurate",
+      "latitude": -12.04873,
+      "longitude": -77.14381,
+      "iso3": "PER",
+      "iso3_op": "PER",
+      "country": "Peru"
+    }
+  },
+  {
+    "portName": "Antwerpen (Antwerp)",
+    "riskType": "delay",
+    "start": "01.01.2019 00:00",
+    "end": "03.01.2019 00:00",
+    "severe": 2,
+    "info": {
+      "portname": "Antwerpen (Antwerp)",
+      "code": "BEANR",
+      "prttype": "Sea",
+      "locprecision": "accurate",
+      "latitude": 51.2495,
+      "longitude": 4.38621,
+      "iso3": "BEL",
+      "iso3_op": "BEL",
+      "country": "Belgium"
+    }
+  },
+  {
+    "portName": "Jawaharlal Nehru",
+    "riskType": "delay",
+    "start": "01.01.2019 00:00",
+    "end": "02.01.2019 00:00",
+    "severe": 1,
+    "info": {
+      "portname": "Jawaharlal Nehru",
+      "code": "INNSA",
+      "prttype": "Sea",
+      "locprecision": "accurate",
+      "latitude": 18.95374,
+      "longitude": 72.95043,
+      "iso3": null,
+      "iso3_op": "IND",
+      "country": null
+    }
+  },
+  {
+    "portName": "Colombo",
+    "riskType": "delay",
+    "start": "01.01.2019 00:00",
+    "end": "02.01.2019 00:00",
+    "severe": 1,
+    "info": {
+      "portname": "Colombo",
+      "code": "LKCMB",
+      "prttype": "Sea",
+      "locprecision": "accurate",
+      "latitude": 6.94119,
+      "longitude": 79.8428,
+      "iso3": "LKA",
+      "iso3_op": "LKA",
+      "country": "Sri Lanka"
+    }
+  },
+  {
+    "portName": "Dar Es Salaam",
+    "riskType": "delay",
+    "start": "01.01.2019 00:00",
+    "end": "04.01.2019 00:00",
+    "severe": 3,
+    "info": {
+      "portname": "Dar Es Salaam",
+      "code": "TZDAR",
+      "prttype": "Sea",
+      "locprecision": "accurate",
+      "latitude": -6.81982,
+      "longitude": 39.28792,
+      "iso3": "TZA",
+      "iso3_op": "TZA,COD,SSD,UGA,MWI",
+      "country": "United Republic of Tanzania"
+    }
+  },
+  {
+    "portName": "Durban",
+    "riskType": "delay",
+    "start": "01.01.2019 00:00",
+    "end": "04.01.2019 00:00",
+    "severe": 3,
+    "info": {
+      "portname": "Durban",
+      "code": "ZADUR",
+      "prttype": "Sea",
+      "locprecision": "accurate",
+      "latitude": -29.88108,
+      "longitude": 31.01967,
+      "iso3": null,
+      "iso3_op": "ZAF, MWI, ZWE",
+      "country": null
+    }
+  },
+  {
+    "portName": "Barcadera",
+    "riskType": "wind_speed",
+    "start": "01.01.2019 00:00",
+    "end": "01.01.2019 00:00",
+    "severe": 0.7,
+    "info": {
+      "portname": "Barcadera",
+      "code": "AWBAR",
+      "prttype": "Sea",
+      "locprecision": "accurate",
+      "latitude": 12.48094,
+      "longitude": -69.99846,
+      "iso3": "ABW",
+      "iso3_op": "ABW",
+      "country": "Aruba"
+    }
+  },
+  {
+    "portName": "Hamaroy",
+    "riskType": "wind_speed",
+    "start": "01.01.2019 00:00",
+    "end": "01.01.2019 00:00",
+    "severe": 0.71,
+    "info": {
+      "portname": "Hamaroy",
+      "code": "NOHMY",
+      "prttype": "Sea",
+      "locprecision": "approximate",
+      "latitude": 68.08477,
+      "longitude": 15.63392,
+      "iso3": "NOR",
+      "iso3_op": "NOR",
+      "country": "Norway"
+    }
+  },
+  {
+    "portName": "Studstrupvaerkets Havn",
+    "riskType": "wind_speed",
+    "start": "01.01.2019 00:00",
+    "end": "01.01.2019 00:00",
+    "severe": 0.79,
+    "info": {
+      "portname": "Studstrupvaerkets Havn",
+      "code": "DKSSV",
+      "prttype": "Sea",
+      "locprecision": "accurate",
+      "latitude": 56.24891,
+      "longitude": 10.34783,
+      "iso3": "DNK",
+      "iso3_op": "DNK",
+      "country": "Denmark"
+    }
+  },
+  {
+    "portName": "Nowy Port",
+    "riskType": "wind_speed",
+    "start": "01.01.2019 00:00",
+    "end": "01.01.2019 00:00",
+    "severe": 0.62,
+    "info": {
+      "portname": "Nowy Port",
+      "code": "PLNOW",
+      "prttype": "Sea",
+      "locprecision": "accurate",
+      "latitude": 54.40853,
+      "longitude": 18.65782,
+      "iso3": "POL",
+      "iso3_op": "POL",
+      "country": "Poland"
+    }
+  },
+  {
+    "portName": "Porvoo",
+    "riskType": "wind_speed",
+    "start": "01.01.2019 00:00",
+    "end": "01.01.2019 00:00",
+    "severe": 0.81,
+    "info": {
+      "portname": "Porvoo",
+      "code": "FIPRV",
+      "prttype": "Sea",
+      "locprecision": "accurate",
+      "latitude": 60.38291,
+      "longitude": 25.67178,
+      "iso3": "FIN",
+      "iso3_op": "FIN",
+      "country": "Finland"
+    }
+  },
+  {
+    "portName": "Lindesnes",
+    "riskType": "wind_speed",
+    "start": "01.01.2019 00:00",
+    "end": "01.01.2019 00:00",
+    "severe": 1.0,
+    "info": {
+      "portname": "Lindesnes",
+      "code": "NOLDS",
+      "prttype": "Sea",
+      "locprecision": "accurate",
+      "latitude": 58.02451,
+      "longitude": 7.10958,
+      "iso3": "NOR",
+      "iso3_op": "NOR",
+      "country": "Norway"
+    }
+  }
+]

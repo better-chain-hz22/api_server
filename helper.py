@@ -43,6 +43,9 @@ class MigrosAPI:
             self.order_enrichment_data['bestellnummer'] == order_id].drop_duplicates()
         return order_information if len(order_information) > 0 else None
 
+    # def _get_port_risks_by_port_code(self, port_code):
+
+
     def _get_risks_for_steps(self, relevant_in_route_points):
         risks_for_steps = []
         for index, route_point in relevant_in_route_points.iterrows():
@@ -52,7 +55,9 @@ class MigrosAPI:
                     end_window = datetime.strptime(risk['end'], '%d.%m.%Y %H:%M')
                     eta = datetime.strptime(route_point['eta'], '%d.%m.%Y %H:%M')
                     if start_window <= eta <= end_window:
-                        risks_for_steps.append(json.loads(route_point.to_json()))
+                        route_point_json = json.loads(route_point.to_json())
+                        route_point_json['riskType'] = risk['riskType']
+                        risks_for_steps.append(route_point_json)
         return risks_for_steps
 
     def _get_ship_route_risk_information(self, ship_id):
