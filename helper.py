@@ -10,6 +10,7 @@ class MigrosAPI:
         self.ship_tracks_data = None
         self.ports_data = None
         self.risks_data = None
+        self._local_ports_risks = None
         self.ports_with_risk_cache = set()
         self._load_data_to_memory()
         self._enrich_risk_data()
@@ -22,6 +23,8 @@ class MigrosAPI:
         self.ports_data = pd.read_csv('data/ports.csv', delimiter=';')
         with open('data/known_risks.json', 'r') as fp:
             self.risks_data = json.load(fp)
+        with open('data/ports_risks.json', 'r') as fp:
+            self._local_ports_risks = json.load(fp)
 
     def _enrich_risk_data(self):
         for risk in self.risks_data:
@@ -74,6 +77,9 @@ class MigrosAPI:
             "ship_risks": ship_risks
         }
         return result
+
+    def get_risks_for_ports(self):
+        return self._local_ports_risks
 
 
 

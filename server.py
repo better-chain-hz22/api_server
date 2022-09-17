@@ -11,6 +11,11 @@ def get_risks_for_order():
     return jsonify(mgrs.get_risks_for_order_id(order_id))
 
 
+@app.route("/risks_for_ports")
+def get_risks_for_ports():
+    return jsonify(mgrs.get_risks_for_ports())
+
+
 @app.route("/")
 def hello_world():
     return "<p>Hello, Migros!</p>"
