@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec7a7233.css",
+    "main.js": "/static/js/main.fbdae2f4.js",
+    "static/js/787.61713774.chunk.js": "/static/js/787.61713774.chunk.js",
+    "static/media/migros-logo.svg": "/static/media/migros-logo.59a2ec235d293210538ff054176f0716.svg",
+    "static/media/location--company--filled.svg": "/static/media/location--company--filled.32572ef3010da337d55090129e3c2f38.svg",
+    "index.html": "/index.html",
+    "static/media/flag--filled.svg": "/static/media/flag--filled.cc2f66ee8b0a6ae74edd80b886af7ff6.svg",
+    "static/media/flag.svg": "/static/media/flag.93ea73ddb9df7a2516a58a97d380cb23.svg",
+    "main.ec7a7233.css.map": "/static/css/main.ec7a7233.css.map",
+    "main.fbdae2f4.js.map": "/static/js/main.fbdae2f4.js.map",
+    "787.61713774.chunk.js.map": "/static/js/787.61713774.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec7a7233.css",
+    "static/js/main.fbdae2f4.js"
+  ]
+}
